@@ -1,0 +1,23 @@
+{
+  "item.newprehistorymod.sapphire": "Sapphire",
+  "item.newprehistorymod.raw_sapphire": "Raw Sapphire",
+  "item.newprehistorymod.quetzal_feather": "Quetzal Feather",
+  "item.newprehistorymod.corn": "Corn",
+  "item.newprehistorymod.cane": "Cane",
+
+  "block.newprehistorymod.sapphire_block": "Sapphire Block",
+  "block.newprehistorymod.raw_sapphire_block": "Raw Sapphire Block",
+  "block.newprehistorymod.sapphire_ore": "Sapphire Ore",
+
+  "block.newprehistorymod.sapphire_stairs": "Sapphire Stairs",
+  "block.newprehistorymod.sapphire_slab": "Sapphire Slab",
+  "block.newprehistorymod.sapphire_button": "Sapphire Button",
+  "block.newprehistorymod.sapphire_pressure_plate": "Sapphire Pressure Plate",
+  "block.newprehistorymod.sapphire_fence": "Sapphire Fence",
+  "block.newprehistorymod.sapphire_fence_gate": "Sapphire Fence Gate",
+  "block.newprehistorymod.sapphire_wall": "Sapphire Wall",
+  "block.newprehistorymod.sapphire_door": "Sapphire Door",
+  "block.newprehistorymod.sapphire_trapdoor": "Sapphire Trapdoor",
+
+  "itemgroup.sapphire": "Prehistory Mod"
+}

@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "newprehistorymod",
+	"version": "${version}",
+	"name": "NewPrehistoryMod",
+	"description": "This is an mod made by Zenon",
+	"authors": [
+		"Zenon"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/newprehistorymod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.zenon.newprehistorymod.NewPrehistoryMod"
+		],
+		"client": [
+			"net.zenon.newprehistorymod.NewPrehistoryModClient"
+		],
+		"fabric-datagen": [
+			"net.zenon.newprehistorymod.NewPrehistoryModDataGenerator"
+		]
+	},
+	"mixins": [
+		"newprehistorymod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.9",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

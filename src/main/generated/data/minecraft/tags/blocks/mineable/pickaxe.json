@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "newprehistorymod:raw_sapphire_block",
+    "newprehistorymod:sapphire_ore",
+    "newprehistorymod:sapphire_block"
+  ]
+}

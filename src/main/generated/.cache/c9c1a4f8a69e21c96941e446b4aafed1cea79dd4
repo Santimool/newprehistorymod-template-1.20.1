@@ -1,0 +1,4 @@
+// 1.20.1	2024-04-10T00:55:48.6433202	NewPrehistoryMod/Block Loot Tables
+e4dcb9cf96c708d7c63e0878f72c89cc4b4d35ea data\newprehistorymod\loot_tables\blocks\sapphire_ore.json
+7e98c1b9e4d3429fef5b31d09ad438488e4024c5 data\newprehistorymod\loot_tables\blocks\sapphire_block.json
+ffe5e56f1541c2a7652533b85a5118238fcb10d2 data\newprehistorymod\loot_tables\blocks\raw_sapphire_block.json
